@@ -960,11 +960,11 @@ footer p {
 	}
 	
 	.topmenu a {
-		padding: 7px 3px 7px;
+		padding: 6px 3px 6px;
 	}
 	
 	.topmenu a:hover, .topmenu a.active {
-		padding: 6px 2px 6px;
+		padding: 5px 2px 5px;
 	}
 	
 	.top {
@@ -1017,11 +1017,11 @@ footer p {
 	}
 	
 	.topmenu a {
-		padding: 7px 1px 7px;
+		padding: 5px 1px 5px;
 	}
 	
 	.topmenu a:hover, .topmenu a.active {
-		padding: 6px 0px 6px;
+		padding: 4px 0px 4px;
 	}
 	
 	.top {
