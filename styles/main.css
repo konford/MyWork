@@ -960,11 +960,11 @@ footer p {
 	}
 	
 	.topmenu a {
-		padding: 6px 3px 6px;
+		padding: 5px 3px 5px;
 	}
 	
 	.topmenu a:hover, .topmenu a.active {
-		padding: 5px 2px 5px;
+		padding: 4px 2px 4px;
 	}
 	
 	.top {
